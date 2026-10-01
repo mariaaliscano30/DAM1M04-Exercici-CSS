@@ -6,3 +6,10 @@ font-family: "Inter", sans-serif;
   font-style: normal;
 }
 
+nav a{
+        color: #d62ea4;
+        text-decoration: none;
+      }
+nav a:hover {
+  color: #d767b7;
+  text-decoration: underline;
