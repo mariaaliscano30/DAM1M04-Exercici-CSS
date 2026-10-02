@@ -13,3 +13,33 @@ nav a{
 nav a:hover {
   color: #d767b7;
   text-decoration: underline;
+}
+
+  h1{
+    color: #d62ea4;
+    font-size: 40px;    
+    text-align: center;
+  }
+
+  h2{
+    color: #2a051f;
+    font-size: 20px;
+  }
+
+  p{
+    color: #2a051f;
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  ol{
+    color: #af0069;
+  }
+
+  ul{
+    color: #ac0069;
+  }
+
+  li{
+    color: #ac0069;
+  }
