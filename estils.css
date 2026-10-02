@@ -22,12 +22,12 @@ a:hover {
   }
 
   h2{
-    color: #170110;
+    color: #d62ea4;
     font-size: 20px;
   }
 
   p{
-    color: #170110;
+    color: #2b021e;
     font-size: 16px;
     font-weight: bold;
   }
@@ -42,3 +42,13 @@ a:hover {
   .redes{
     color: #360222;
   }
+
+#descripcion-foto{
+  color: #f98fd7;
+  font-size: 10px;
+  font-style: italic;
+}
+
+hr{
+  border: 1px solid #ebb9dc;
+}
