@@ -32,9 +32,21 @@ a:hover {
     font-weight: bold;
   }
 
-  li{
-    color: #9e0057;
-  }
+ul > li {
+  color: rgb(204, 0, 255);
+}
+
+ul > li:first-child {
+  color: rgb(255, 0, 187);
+}
+
+ul > li:last-child {
+  color: rgb(255, 0, 157);
+}
+
+ul > li:nth-child(2) {
+  color: rgb(194, 44, 174);
+}
 
   .copyright{
     color: #360222;
