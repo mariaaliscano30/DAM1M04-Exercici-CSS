@@ -65,6 +65,10 @@ hr{
   border: 1px solid #ebb9dc;
 }
 
+ol#base > li{
+  color: #d62ea4;
+}
+
 .copyright::before {
           content: "🌸";
         }
