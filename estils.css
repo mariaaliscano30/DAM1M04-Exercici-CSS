@@ -64,3 +64,11 @@ ul > li:nth-child(2) {
 hr{
   border: 1px solid #ebb9dc;
 }
+
+.copyright::before {
+          content: "🌸";
+        }
+
+.redes::after {
+          content: "🌺";
+        }
